@@ -1,2 +1,0 @@
-# DataScienceHomework
-Bootcamp Homework
